@@ -1,0 +1,5 @@
+﻿  ConsoleApplication1.cpp
+d:\hackthon\final\project\project\consoleapplication1\consoleapplication1.cpp(237): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\hackthon\final\project\project\consoleapplication1\consoleapplication1.cpp(254): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\hackthon\final\project\project\consoleapplication1\consoleapplication1.cpp(296): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  ConsoleApplication1.vcxproj -> D:\Hackthon\Final\Project\Project\Debug\ConsoleApplication1.exe
